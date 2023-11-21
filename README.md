@@ -17,7 +17,7 @@ Bu proje, müzik çalar uygulamasını içerir. HTML, CSS ve JavaScript kullanı
 
 ## Örnek Ekran Görüntüleri
 
-![]([img\mp3.gif](https://github.com/omergzlaydn/mp3-Music-Player/blob/main/img/mp3.gif))
+![](https://github.com/omergzlaydn/mp3-Music-Player/blob/main/img/mp3.gif)
 
 ## Teknolojiler
 
